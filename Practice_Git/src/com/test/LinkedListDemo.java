@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	l.add(74);
 	l.add(50);
 	
-	System.out.println(l);
+	
 	System.out.println("this is second line added");
 }
 }
