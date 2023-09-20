@@ -14,6 +14,7 @@ public class ArraylistDemo {
 		list.add(5);
 		System.out.println(list);
 		System.out.println("this is new line add1");
+		System.out.println("this is second branch");
 	
 	}
 
