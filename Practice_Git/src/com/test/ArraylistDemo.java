@@ -13,7 +13,7 @@ public class ArraylistDemo {
 		list.add(4);
 		list.add(5);
 		System.out.println(list);
-		System.out.println("this is new line add");
+		System.out.println("this is new line add1");
 	
 	}
 
